@@ -73,7 +73,7 @@ Currently preparing for **predoctoral and PhD positions in Economics**, with emp
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmanuel-Kodom&show_icons=true&count_private=true&hide=issues&theme=algolia&hide_border=true&bg_color=00000000&title_color=1E3A8A&icon_color=7C3AED)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmmanuel-Kodom&layout=compact&theme=algolia&hide_border=true&bg_color=00000000&title_color=1E3A8A)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Kodom&layout=compact&theme=algolia&hide_border=true&bg_color=00000000&title_color=1E3A8A)
 
 </div>
 
