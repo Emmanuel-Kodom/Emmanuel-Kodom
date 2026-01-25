@@ -71,9 +71,9 @@ Currently preparing for **predoctoral and PhD positions in Economics**, with emp
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide=issues&theme=algolia&hide_border=true&bg_color=00000000&title_color=1E3A8A&icon_color=7C3AED)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmanuel-Kodom&show_icons=true&count_private=true&hide=issues&theme=algolia&hide_border=true&bg_color=00000000&title_color=1E3A8A&icon_color=7C3AED)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=algolia&hide_border=true&bg_color=00000000&title_color=1E3A8A)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmmanuel-Kodom&layout=compact&theme=algolia&hide_border=true&bg_color=00000000&title_color=1E3A8A)
 
 </div>
 
@@ -91,9 +91,9 @@ Currently preparing for **predoctoral and PhD positions in Economics**, with emp
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Professional%20Inquiry-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20for%20Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Professional%20Inquiry-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.koooyaw@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/(https://www.linkedin.com/in/emmanuel-kodom-574b931b0/))
+[![Twitter](https://img.shields.io/badge/Twitter-Follow%20for%20Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EmeritusKodom)
 
 </div>
 
