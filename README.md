@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Econometrics-STATA%20|%20R%20|%20Python-1E3A8A?style=flat-square" />
   <img src="https://img.shields.io/badge/Methods-Panel%20Data%20|%20Causal%20Inference-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Fields-Environmental%20|%20Development%20|%20Labor-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fields-Environmental%20|%20Development%20|%20Health%20|Labor-7C3AED?style=flat-square" />
 </p>
 
 <div align="center">
