@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=500&color=1E3A8A&center=true&vCenter=true&width=600&lines=Preparing+for+PhD+and+Predoctoral+Positions+in+Economics+and+Data%20Science;Specializing+in+Reproducible+Empirical+Research;Focus+on+Environmental+Quality+and+Economic+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=500&color=1E3A8A&center=true&vCenter=true&width=700&lines=Preparing+for+PhD+and+Predoctoral+Positions;Specializing+in+Reproducible+Empirical+Research;Focus+on+Environmental+Quality+and+Economic+Development;Building+Data+Science+Skills+for+Economics" alt="Typing SVG" />
 </div>
 
 ---
