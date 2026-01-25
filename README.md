@@ -1,105 +1,101 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A1A2F&height=110&section=header&text=Emmanuel%20Kodom&fontSize=34&fontColor=ffffff&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=1E3A8A&height=150&section=header&text=Emmanuel%20Kodom&fontSize=60&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Economics%20Researcher&descSize=20&descAlignY=75" />
 </p>
 
 <p align="center">
-  🎓 Economics | 📊 Applied Econometrics | 🌍 Environmental & Development Economics
+  <b>🎓 Economics Researcher | 📊 Applied Econometrics | 🌍 Environmental & Development</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Field-Economics-blue" />
-  <img src="https://img.shields.io/badge/Focus-Applied%20Econometrics-green" />
-  <img src="https://img.shields.io/badge/Interest-Environmental%20Economics-darkgreen" />
+  <img src="https://img.shields.io/badge/Econometrics-STATA%20|%20R%20|%20Python-1E3A8A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Methods-Panel%20Data%20|%20Causal%20Inference-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fields-Environmental%20|%20Development%20|%20Labor-7C3AED?style=flat-square" />
 </p>
 
----
-
-## 👤 About Me
-I am an economics student with strong training in **applied econometrics** and a research focus on **economic development, institutions, and environmental quality**.  
-I am currently preparing for **predoc and PhD positions in Economics**, with an emphasis on **reproducible empirical research in R**.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=500&color=1E3A8A&center=true&vCenter=true&width=600&lines=Preparing+for+PhD+and+Predoctoral+Positions+in+Economics;Specializing+in+Reproducible+Empirical+Research;Focus+on+Environmental+Quality+and+Economic+Development" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🔬 Research & 📂 Projects
+## 👨‍🎓 About Me
+I am an **economics researcher** with strong training in **applied econometrics** and a focus on **economic development, institutions, and environmental quality**.  
+Currently preparing for **predoctoral and PhD positions in Economics**, with emphasis on **reproducible empirical research** using R, STATA, and Python.
 
-| **Research Interests** | **Featured Repositories** |
-|-----------------------|---------------------------|
-| Environmental Economics  | 🌍 **environmental-economics-research** |
-| Development Economics    | • Education, Institutions & CO₂ in Africa |
-| Applied Econometrics     | • Environmental Kuznets Curve (U.S.) |
-| Panel Data Methods       | 📊 **r-econometrics-foundations** |
-| Institutions & Education | • OLS, FE, DiD, IV, GMM |
-
----
-
-## 🛠️ Skills & Data
-
-| **Methods & Tools** | **Data Sources** |
-|--------------------|------------------|
-| R                  | World Bank (WDI) |
-| Fixed Effects      | Penn World Table |
-| DiD, IV, GMM       | WGI |
-| Panel Econometrics | Reproducible workflows |
+### 📌 Research Focus Areas
+- **Environmental Economics**: Climate policy, pollution, resource management
+- **Development Economics**: Institutions, education, poverty reduction  
+- **Applied Econometrics**: Causal inference, panel data, spatial econometrics
 
 ---
 
-## 🎯 Current Goals
-- Secure a **predoc position** in Economics  
-- Prepare competitive **PhD applications**  
-- Develop **working-paper–quality** empirical research  
+## 🔬 Featured Research Projects
+
+### 🌍 **Environmental Economics Research** 
+*Education, Institutions & CO₂ Emissions in Africa*  
+`R` `Panel Data` `Fixed Effects` `World Bank Data`
+
+### 📊 **Applied Econometrics Foundations**  
+*Replication & Extension Studies in R*  
+`OLS` `IV` `DiD` `GMM` `Reproducible Workflows`
+
+### 🏛️ **Institutional Economics**  
+*Governance Quality & Economic Development*  
+`WGI Data` `Cross-country Analysis` `Instrumental Variables`
 
 ---
 
-## 📬 Contact
-- GitHub: @**your-username**
-- Email: **your-email**
+## 🛠️ Technical Toolkit
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide=issues,stars&theme=default" />
-</p>
+### **Statistical Software**
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![STATA](https://img.shields.io/badge/STATA-1E3A8A?style=for-the-badge&logo=stata&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
----
+### **Econometric Methods**
+- **Panel Data**: Fixed Effects, Random Effects, Dynamic Panels
+- **Causal Inference**: DiD, RD, IV, Matching Methods
+- **Time Series**: ARIMA, VAR, Cointegration
+- **Spatial Analysis**: Spatial Autoregression, GIS
 
-## 👤 About Me
-I am an economics student with strong training in **applied econometrics** and a research focus on **economic development, institutions, and environmental quality**.  
-I am currently preparing for **predoc and PhD positions in Economics**, with an emphasis on **reproducible empirical research in R**.
-
----
-
-## 🔬 Research & 📂 Projects
-
-| **Research Interests** | **Featured Repositories** |
-|-----------------------|---------------------------|
-| Environmental Economics  | 🌍 **environmental-economics-research** |
-| Development Economics    | • Education, Institutions & CO₂ in Africa |
-| Applied Econometrics     | • Environmental Kuznets Curve (U.S.) |
-| Panel Data Methods       | 📊 **r-econometrics-foundations** |
-| Institutions & Education | • OLS, FE, DiD, IV, GMM |
-| Health Economics         | • Medicaid and Medicare
----
-
-## 🛠️ Skills & Data
-
-| **Methods & Tools** | **Data Sources** |
-|--------------------|------------------|
-| R                  | World Bank (WDI) |
-| Fixed Effects      | Penn World Table |
-| DiD, IV, GMM       | WGI |
-| Panel Econometrics | Reproducible workflows |
+### **Data Sources**
+![World Bank](https://img.shields.io/badge/World_Bank-1E3A8A?style=flat-square&logo=worldbank&logoColor=white)
+![IPUMS](https://img.shields.io/badge/IPUMS-7C3AED?style=flat-square)
+![OECD](https://img.shields.io/badge/OECD-10B981?style=flat-square)
+![FRED](https://img.shields.io/badge/FRED-CC0000?style=flat-square)
 
 ---
 
-## 🎯 Current Goals
-- Secure a **predoc position** in Economics and related field
-- Prepare competitive **PhD applications**  
-- Develop **working-paper–quality** empirical research  
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide=issues&theme=algolia&hide_border=true&bg_color=00000000&title_color=1E3A8A&icon_color=7C3AED)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=algolia&hide_border=true&bg_color=00000000&title_color=1E3A8A)
+
+</div>
 
 ---
 
-## 📬 Contact
-- GitHub: @**Emmanuel-Kodom**
-- Email: **koooyaw@gmail.com**
+## 🎯 Current Objectives
+1. **Secure a predoctoral research position** at a leading economics department
+2. **Develop working-paper-quality research** in environmental economics
+3. **Strengthen technical skills** in machine learning for economics
+4. **Contribute to open-source econometrics** packages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Kodom&show_icons=true&hide=issues,stars&theme=default" />
-</p>
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-Professional%20Inquiry-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow%20for%20Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+
+</div>
+
+---
+*"Measuring what matters in economic development and environmental sustainability"*
