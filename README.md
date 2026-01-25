@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A1A2F&height=130&section=header&text=Emmanuel%20Kodom&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Applied%20Econometrics%20%7C%20Environmental%20%26%20Development%20Economics&descAlignY=68&descSize=15" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1F3A5F&height=110&section=header&text=Emmanuel%20Kodom&fontSize=36&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Economics-Researcher-0A1A2F" />
-  <img src="https://img.shields.io/badge/Methods-Panel%20Data%20%7C%20IV%20%7C%20GMM-555555" />
+  <strong>Applied Econometrics · Environmental & Development Economics</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Research-Economics-1F3A5F" />
 </p>
 
 ---
