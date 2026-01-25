@@ -3,6 +3,9 @@
   <img src="https://img.shields.io/badge/Focus-Applied%20Econometrics-green" />
   <img src="https://img.shields.io/badge/Interest-Environmental%20Economics-darkgreen" />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A1A2F&height=120&section=header&text=Emmanuel%20Kodom&fontSize=36&fontColor=ffffff&fontAlignY=50" />
+</p>
 
 # Emmanuel Kodom
 
