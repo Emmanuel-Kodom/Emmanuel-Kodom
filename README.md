@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1F3A5F&height=110&section=header&text=Emmanuel%20Kodom&fontSize=36&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Emmanuel%20Kodom&fontSize=40&fontAlignY=38&desc=Applied%20Econometrics%20%7C%20Environmental%20%26%20Development%20Economics&descAlignY=60&descSize=16" />
 </p>
 
 <p align="center">
-  <strong>Applied Econometrics · Environmental & Development Economics</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Research-Economics-1F3A5F" />
+  <img src="https://img.shields.io/badge/Field-Economics-blue" />
+  <img src="https://img.shields.io/badge/Focus-Applied%20Econometrics-2E8B57" />
+  <img src="https://img.shields.io/badge/Interest-Environmental%20Economics-0A1A2F" />
 </p>
 
 ---
