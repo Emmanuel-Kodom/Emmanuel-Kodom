@@ -55,5 +55,5 @@ I am currently preparing for **predoc and PhD positions in Economics**, with an 
 - Email: **your-email**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide=issues,stars&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Kodom&show_icons=true&hide=issues,stars&theme=default" />
 </p>
