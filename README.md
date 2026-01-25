@@ -1,73 +1,59 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A1A2F&height=110&section=header&text=Emmanuel%20Kodom&fontSize=34&fontColor=ffffff&fontAlignY=50" />
+</p>
+
+<p align="center">
+  🎓 Economics | 📊 Applied Econometrics | 🌍 Environmental & Development Economics
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Field-Economics-blue" />
   <img src="https://img.shields.io/badge/Focus-Applied%20Econometrics-green" />
   <img src="https://img.shields.io/badge/Interest-Environmental%20Economics-darkgreen" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A1A2F&height=120&section=header&text=Emmanuel%20Kodom&fontSize=36&fontColor=ffffff&fontAlignY=50" />
-</p>
-
-# Emmanuel Kodom
-
-🎓 Economics student | 📊 Applied Econometrics | 🌍 Environmental & Development Economics
-
-I am an economics student with strong training in **applied econometrics** and a research focus on the relationship between **economic development, institutions, and environmental quality**. I am currently preparing for **predoc and PhD positions in Economics**.
-
-My work emphasizes **transparent, reproducible empirical analysis in R**, with applications to both developed and developing countries.
 
 ---
 
-## 🔬 Research Interests
-- Environmental Economics
-- Development Economics
-- Applied Econometrics
-- Panel Data Methods
-- Institutions and Human Capital
+## 👤 About Me
+I am an economics student with strong training in **applied econometrics** and a research focus on **economic development, institutions, and environmental quality**.  
+I am currently preparing for **predoc and PhD positions in Economics**, with an emphasis on **reproducible empirical research in R**.
 
 ---
 
-## 📂 Featured Research Repositories
+## 🔬 Research & 📂 Projects
 
-### 🌍 Environmental Economics Research
-Empirical research projects examining the growth–environment nexus using panel data methods.
-
-- **Education, Institutional Quality, and Environmental Quality in Africa**  
-  Panel data and dynamic GMM analysis of CO₂ emissions across African countries  
-  *(World Bank WDI, Penn World Table, WGI)*
-
-- **Environmental Kuznets Curve in the United States**  
-  Fixed effects analysis of the income–pollution relationship
-
-📌 Repository: `environmental-economics-research`
+| **Research Interests** | **Featured Repositories** |
+|-----------------------|---------------------------|
+| Environmental Economics  | 🌍 **environmental-economics-research** |
+| Development Economics    | • Education, Institutions & CO₂ in Africa |
+| Applied Econometrics     | • Environmental Kuznets Curve (U.S.) |
+| Panel Data Methods       | 📊 **r-econometrics-foundations** |
+| Institutions & Education | • OLS, FE, DiD, IV, GMM |
 
 ---
 
-### 📊 R Econometrics Foundations
-Core econometric methods implemented in R with reproducible examples.
+## 🛠️ Skills & Data
 
-- OLS, Fixed Effects, Panel Models
-- Difference-in-Differences
-- Instrumental Variables
-
-📌 Repository: `r-econometrics-foundations`
-
----
-
-## 🛠️ Tools & Skills
-- **Languages**: R
-- **Econometrics**: Fixed Effects, DiD, IV, GMM, Panel Data
-- **Data**: World Bank (WDI), Penn World Table, WGI
-- **Workflow**: Reproducible research, Git/GitHub
+| **Methods & Tools** | **Data Sources** |
+|--------------------|------------------|
+| R                  | World Bank (WDI) |
+| Fixed Effects      | Penn World Table |
+| DiD, IV, GMM       | WGI |
+| Panel Econometrics | Reproducible workflows |
 
 ---
 
 ## 🎯 Current Goals
-- Secure a **predoc position** in economics and data science
-- Prepare for **PhD applications** in Economics and related field
-- Develop working-paper–quality empirical research
+- Secure a **predoc position** in Economics  
+- Prepare competitive **PhD applications**  
+- Develop **working-paper–quality** empirical research  
 
 ---
 
 ## 📬 Contact
-- GitHub: @<Emmanuel-Kodom>
-- Email: <koooyaw@gmail.com>
+- GitHub: @**your-username**
+- Email: **your-email**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide=issues,stars&theme=default" />
+</p>
