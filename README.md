@@ -19,12 +19,12 @@
 ---
 
 ## 👨‍🎓 About Me
-I am an **economics researcher** with strong training in **applied econometrics** and a focus on **economic development, institutions, and environmental quality**.  
+I am an **economics researcher** with strong training in **applied econometrics** and a focus on **economic development, institutions, and environmental quality and health economics**.  
 Currently preparing for **predoctoral and PhD positions in Economics**, with emphasis on **reproducible empirical research** using R, STATA, and Python.
 
 ### 📌 Research Focus Areas
 - **Environmental Economics**: Climate policy, pollution, resource management
-- **Development Economics**: Institutions, education, poverty reduction  
+- **Development Economics**: Institutions, education, poverty reduction, health economics  
 - **Applied Econometrics**: Causal inference, panel data, spatial econometrics
 
 ---
