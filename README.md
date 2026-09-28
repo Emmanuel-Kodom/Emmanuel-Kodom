@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>🎓 Economics Researcher | 📊 Applied Econometrics | 🌍 Environmental & Development</b>
+  <b>🎓 Research Assistant | 📊 Applied Econometrics | 🌍 Environmental & Development</b>
 </p>
 
 <p align="center">
