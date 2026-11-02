@@ -7,13 +7,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Econometrics-STATA%20|%20R%20|%20Python-1E3A8A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Methods-Panel%20Data%20|%20Causal%20Inference-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Fields-Environmental%20|%20Development%20|%20Health%20|Labor-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Research-Educational%20Measurement%20%26%20Evaluation-1E3A8A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Methods-Psychometrics%20%7C%20Causal%20Inference-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tools-R%20%7C%20Python%20%7C%20Stata-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Assessment%20Validity%20%26%20Fairness-DB8B20?style=flat-square" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=500&color=1E3A8A&center=true&vCenter=true&width=700&lines=Preparing+for+PhD+and+Predoctoral+Positions;Specializing+in+Reproducible+Empirical+Research;Focus+on+Environmental+Quality+and+Economic+Development;Building+Data+Science+Skills+for+Economics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=700&color=1E3A8A&center=true&vCenter=true&width=750&lines=Aspiring+Educational+Measurement+Researcher;Exploring+Psychometrics+and+Assessment+Validity;Interested+in+Educational+Equity+and+Policy+Evaluation;Applying+Quantitative+Methods+to+Educational+Research;Building+with+R%2C+Python+and+Stata" alt="Typing SVG" />
 </div>
 
 ---
