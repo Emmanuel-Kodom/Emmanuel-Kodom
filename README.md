@@ -19,13 +19,12 @@
 ---
 
 ## 👨‍🎓 About Me
-I am an **economics researcher** with strong training in **applied econometrics** and a focus on **economic development, institutions, and environmental quality and health economics**.  
-Currently preparing for **predoctoral and PhD positions in Economics**, with emphasis on **reproducible empirical research** using R, STATA, and Python.
+I am a quantitative researcher with a background in Economics and Applied Econometrics, increasingly focused on educational measurement, psychometrics, and education policy evaluation. Currently preparing for PhD opportunities in Educational Measurement and Evaluation, with an emphasis on quantitative and reproducible research using R, Stata, and Pytho
 
 ### 📌 Research Focus Areas
-- **Environmental Economics**: Climate policy, pollution, resource management
-- **Development Economics**: Institutions, education, poverty reduction, health economics  
-- **Applied Econometrics**: Causal inference, panel data, spatial econometrics
+- **Educational Measurement**: Assessment validity, fairness, and psychometrics
+- **Education Policy & Evaluation**: Causal inference, program evaluation, and educational inequality
+- **Quantitative Research**: tatistical modeling, applied econometrics, and data analysis
 
 ---
 
@@ -79,12 +78,13 @@ Currently preparing for **predoctoral and PhD positions in Economics**, with emp
 
 ---
 
-## 🎯 Current Objectives
-1. **Secure a predoctoral research position** at a leading economics department
-2. **Develop working-paper-quality research** in environmental economics
-3. **Strengthen technical skills** in machine learning for economics
-4. **Contribute to open-source econometrics** packages
+🎓 PhD Research: Pursuing opportunities in Educational Measurement & Evaluation.
 
+📊 Research Development: Exploring psychometrics, assessment validity, and fairness.
+
+💻 Technical Growth: Advancing skills in R, Python, machine learning, and statistical modeling.
+
+🌍 Open Research: Promoting reproducible research and contributing to open-source projects.
 ---
 
 ## 📬 Connect With Me
