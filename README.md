@@ -91,11 +91,11 @@ I am a quantitative researcher with a background in Economics and Applied Econom
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Professional%20Inquiry-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.koooyaw@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Professional%20Inquiry-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koooyaw@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/(https://www.linkedin.com/in/emmanuel-kodom-574b931b0/))
 [![Twitter](https://img.shields.io/badge/Twitter-Follow%20for%20Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EmeritusKodom)
 
 </div>
 
 ---
-*"Measuring what matters in economic development and environmental sustainability"*
+*"Measuring what matters in education, assessment, and human development."*
