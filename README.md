@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>🎓 Research Assistant | 📊 Applied Econometrics | 🌍 Environmental & Development</b>
+  <b>🎓 Educational Research | 📊 Psychometrics & Measurement | 🌍 Education Policy & Evaluation</b>
 </p>
 
 <p align="center">
